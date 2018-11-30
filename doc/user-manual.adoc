@@ -12,7 +12,7 @@ This document assumes that you are familiar with Mule, Anypoint Connectors, Anyp
 
 == What's New in this Connector
 
-Version 2.0 now supports mule 4.1+ and drops support for mule 3.x
+Nothing
 
 == Add JSON logging support
 
@@ -22,9 +22,9 @@ to include in you pom.xml the dependency for our log4j layout
 [source,xml]
 ----
 <dependency>
-    <groupId>com.kloudtek.mule.elogging</groupId>
-    <artifactId>mule-elogging-log4j2</artifactId>
-    <version>LATEST_VERSION</version>
+    <groupId>com.kloudtek.elogging</groupId>
+    <artifactId>elogging-log4j2</artifactId>
+    <version>1.0.1</version>
 </dependency>
 ----
 

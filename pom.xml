@@ -6,7 +6,7 @@
     <!-- NOTE: Need to use com.kloudtek.mule-elogging to release to maven central, will change to
     org.mule.extension when migrating to public exchange -->
     <!--<groupId>org.mule.extension</groupId>-->
-    <groupId>com.kloudtek.mule-elogging</groupId>
+    <groupId>com.kloudtek.elogging</groupId>
     <artifactId>elogging-mule4-connector</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule-extension</packaging>
